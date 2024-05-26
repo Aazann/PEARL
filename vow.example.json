@@ -1,0 +1,14 @@
+{
+  "token": "",
+  "prefix": "",
+
+  "links": {
+    "support": ""
+  },
+  "admins": [""],
+  "owners": [""],
+  "color": "",
+  "webhooks": {
+    "logs": ""
+  }
+}

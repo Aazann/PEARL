@@ -1,0 +1,7 @@
+.env
+/dist
+/.vscode
+vow.json
+binding.eps
+/node_modules
+/database-storage
