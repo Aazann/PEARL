@@ -23,7 +23,7 @@ export default class InfoCommand extends AbstractCommand {
               "┌────────────────────────────────────┐\n" +
               "│          /** Bot-Info */           │\n" +
               "├────────────────────────────────────┤\n" +
-              "│ • Fuego v1.0.0        ┌──────────┐ │\n" +
+              "│ • Pearl v1.0.0        ┌──────────┐ │\n" +
               "│ • Open - sourced      │ 21112002 │ │\n" +
               "│ • A music bot ig      │ 13032022 │ │\n" +
               "│ • Owner not_a_coder   │ 23122022 │ │\n" +
@@ -31,8 +31,8 @@ export default class InfoCommand extends AbstractCommand {
               "├────────────────────────────────────┤\n" +
               "│ • Nerdy Stats                      │\n" +
               "│     ├ Runtime         -  node@lts  │\n" +
-              "│     ├ NodeJs          -  @ 20.0.0  │\n" +
-              "│     └ Discord.js      -  @ latest  │\n" +
+              "│     ├ NodeJs          -  @ 20.13.1  │\n" +
+              "│     └ Discord.js      -  @ 14.15.1  │\n" +
               "├────────────────────────────────────┤\n" +
               "│ • Why was I made ?                 │\n" +
               "│     └ Who the fuck knows. . . .    │\n" +
